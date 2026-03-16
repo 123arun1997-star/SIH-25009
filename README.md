@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:16.3.2026
+## Reference Number:25011825
+## Name:V.Arunachalam
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
@@ -85,6 +85,7 @@ AWS / Google Cloud / Firebase
 AI / Data Features
 AI for personalized eco-challenges
 Image recognition for verifying activities
+<img src="https://github.com/123arun1997-star/SIH-25009/blob/main/image-1.png">
 
 ## Feasibility and Viability
 Feasibility
