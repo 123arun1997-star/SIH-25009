@@ -85,7 +85,7 @@ AWS / Google Cloud / Firebase
 AI / Data Features
 AI for personalized eco-challenges
 Image recognition for verifying activities
-1[Gamification](game.wedp)
+
 ## Feasibility and Viability
 Feasibility
 This project is feasible because:
